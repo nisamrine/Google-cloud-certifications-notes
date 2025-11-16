@@ -4,6 +4,8 @@ This article synthesizes my notes from [the Google Cloud Generative AI Leader le
 
 ⚠️PS : The Generative AI field is highly dynamic; details (models, features, practices) are subject to rapid updates and continuous refinement, so stay current with the latest advancements.
 
+For further information and tips about the certification, you can refer to [my medium article](https://medium.com/@nisrine.amimi/making-sense-of-generative-ai-my-google-glouds-generative-ai-certification-experience-db11f1f4384a?postPublishedType=initial) 
+
 ---
 
 ## Beyond the Chatbot
